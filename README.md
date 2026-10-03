@@ -2,6 +2,7 @@
 an image captioning tool using the BLIP model from Hugging Face's Transformers with Gradio
 
 Create a Python virtual environment and install Gradio using the following commands in the terminal:
+
 pip3 install virtualenv 
 virtualenv my_env # create a virtual environment my_env
 source my_env/bin/activate # activate my_env
